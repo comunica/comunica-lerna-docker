@@ -1,3 +1,5 @@
+# DEPRECATED: This project has been moved and generalized to [lerna-docker](https://github.com/rubensworks/lerna-docker).
+
 # Comunica Lerna Docker
 
 A simple tool for easily building and publishing [Docker](https://www.docker.com/) images inside Comunica [Lerna](https://lernajs.io/) monorepos.
